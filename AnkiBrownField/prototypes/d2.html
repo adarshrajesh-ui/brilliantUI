@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Spot the Difference — Ethics</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <div class="brand">Contrast<small>Ethics: spot the one fact that flips it</small></div>
+    <span class="pill">Standard I(C)</span>
+  </div>
+  <a class="back" href="index.html">← all prototypes</a>
+
+  <div class="card" style="margin-top:14px">
+    <div class="eyebrow">Two near-identical cases — one breaks the rules</div>
+    <p class="small muted">Maria, CFA, sends clients a summary based on a third-party research report. Read both versions.</p>
+    <div class="split" style="margin-top:14px">
+      <div class="scenario">
+        <div class="tag">Case A</div>
+        Maria emails the summary and writes: <span class="hl">“Adapted from Q3 research by Nomura’s equity desk.”</span> She keeps the source’s data intact.
+        <div class="row" style="margin-top:12px">
+          <button class="btn secondary" data-case="A" data-v="0">Conforms</button>
+          <button class="btn secondary" data-case="A" data-v="1">Violates</button>
+        </div>
+      </div>
+      <div class="scenario">
+        <div class="tag">Case B</div>
+        Maria emails the same summary and writes: <span class="hl">“Our latest in-house analysis.”</span> She keeps the source’s data intact.
+        <div class="row" style="margin-top:12px">
+          <button class="btn secondary" data-case="B" data-v="0">Conforms</button>
+          <button class="btn secondary" data-case="B" data-v="1">Violates</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" id="decisive" style="display:none">
+    <div class="eyebrow">Now the real skill — name the deciding fact</div>
+    <p class="q">Which single difference flips the answer?</p>
+    <button class="opt" data-c="1">Whether she credits the original source</button>
+    <button class="opt" data-c="0">Whether the data is accurate</button>
+    <button class="opt" data-c="0">Whether clients paid for the report</button>
+    <button class="opt" data-c="0">Whether the report is about equities</button>
+  </div>
+
+  <div class="card" id="result" style="display:none"></div>
+  <p class="hint">Pick Conforms/Violates for each, then name the fact that separates them.</p>
+</div>
+
+<script>
+const picks = {};
+document.querySelectorAll('[data-case]').forEach(b=>{
+  b.onclick=()=>{
+    const c=b.dataset.case;
+    document.querySelectorAll(`[data-case="${c}"]`).forEach(x=>x.classList.remove('sel'));
+    b.classList.add('sel'); picks[c]=b.dataset.v;
+    if(picks.A && picks.B) document.getElementById('decisive').style.display='block';
+  };
+});
+document.querySelectorAll('#decisive .opt').forEach(o=>{
+  o.onclick=()=>{
+    document.querySelectorAll('#decisive .opt').forEach(x=>x.onclick=null);
+    const right = o.dataset.c==='1';
+    document.querySelectorAll('#decisive .opt').forEach(x=>{ if(x.dataset.c==='1') x.classList.add('correct'); });
+    if(!right) o.classList.add('wrong');
+    const caseRight = picks.A==='0' && picks.B==='1';
+    const r=document.getElementById('result'); r.style.display='block'; r.classList.add('fade-in');
+    r.innerHTML = `
+      <div class="eyebrow">Answer</div>
+      <div class="callout ${caseRight?'green':'amber'}">
+        <b>Case A conforms; Case B violates.</b> Same data, same client — the <b>only</b> difference is attribution.
+      </div>
+      <div class="callout" style="margin-top:12px">
+        <b>Standard I(C) — Misrepresentation (plagiarism).</b> Presenting someone else’s work as your own violates the Code, even if every number is correct. Crediting the source (Case A) makes it fine.
+      </div>
+      <div class="callout amber" style="margin-top:12px">
+        Why this way: you learn the <b>boundary</b>, not a definition. Ethics questions are always a near-miss where one fact decides it — so you train on pairs, not lone scenarios.
+      </div>
+      <button class="btn" style="margin-top:14px" onclick="location.reload()">Next pair</button>`;
+    r.scrollIntoView({behavior:'smooth'});
+  };
+});
+</script>
+</body>
+</html>

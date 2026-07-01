@@ -1,0 +1,960 @@
+How To Use Anki Like A Pro: Full Step-by-Step Walkthrough
+Alec Palmerton, MD
+https://www.youtube.com/watch?v=kg6iqqPPSG0
+
+[0:00] Anki can actually ruin your studying if
+[0:02] you don't use it right at Stanford I was
+[0:04] drowning in thousands of flash card
+[0:06] watching my productivity plummet despite
+[0:08] studying more hours than anyone in fact
+[0:10] I almost dropped out before discovering
+[0:13] the critical features hiding in plain
+[0:15] sight that completely transformed my
+[0:17] Approach today I'll show you a full
+[0:19] step-by-step walkthrough of how to use
+[0:21] Ani like a pro including mastering the
+[0:24] deck settings that prevent card
+[0:25] overwhelm configuring card types
+[0:27] correctly using the browse function to
+[0:29] create a searchable knowledge engine and
+[0:31] implementing the syncing strategy that
+[0:33] prevents catastrophic progress loss
+[0:35] these exact techniques helped me score
+[0:37] in the top. 1% while studying fewer
+[0:40] hours than my peers let's Master an's
+[0:42] interface together and fix your workflow
+[0:44] once and for
+[0:45] [Music]
+[0:46] all so the first thing is we're going to
+[0:49] look at the deck section so in this
+[0:51] section the purpose is really to
+[0:53] organize your card you can create both
+[0:55] decks and subdecks so as an example here
+[0:59] you could create so we can say test deck
+[1:02] and then if we wanted to uh we can add
+[1:05] other decks to this so let's say that we
+[1:06] have these other decks here I would just
+[1:08] drag it to the test deck and then I can
+[1:10] hit plus and it'll allow me to create uh
+[1:13] different sub decks within that probably
+[1:15] the most useful icon here is is if you
+[1:17] click the little uh gear button here and
+[1:20] it'll allow you to rename the deck if
+[1:22] you want um you can also do study
+[1:25] options and you can export the cards uh
+[1:28] and so for example if I wanted to say
+[1:31] like share my deck with other people I
+[1:33] can export my cards including the media
+[1:36] uh like images or sounds or things like
+[1:38] that and share it with other people in
+[1:39] terms of studying if I wanted to study
+[1:41] the cards so in the test deck or in my
+[1:44] default deck I would just click on this
+[1:45] and then it would hit study now and so
+[1:47] as I've made this card in the past I
+[1:49] would then just go through and review it
+[1:50] and say say epid hematoma use the path
+[1:52] of physiology to explain the
+[1:53] presentation well the pathopysiology is
+[1:55] is that you've got middle manal artery
+[1:57] it's a high pressure system and
+[2:00] so and so I would hit uh enter and then
+[2:04] I would click uh if I got it right I
+[2:06] would hit good if I was hard but I got
+[2:08] it right I would hit hard and if I got
+[2:10] it wrong I would hit again the the next
+[2:11] thing I want to talk about is Ani
+[2:13] setting so this is something that can be
+[2:14] really confusing if you get this wrong
+[2:16] it can actually cause you to be
+[2:18] extremely overwhelmed with your setting
+[2:20] because you'll be buried in flashcards
+[2:22] and you may not know why and you might
+[2:24] think oh my gosh an is not for me this
+[2:26] is horrible but in reality when you dig
+[2:28] a little bit under the surface you'll
+[2:30] often times see that there's a problem
+[2:31] with setting before I talk about
+[2:32] settings I'm just going to briefly uh
+[2:34] talk about some nomenclature so you've
+[2:36] got new you've got learn and you've got
+[2:38] do those are the three kinds of cards so
+[2:40] new cards are cards that I've created
+[2:42] but I haven't yet seen learn are cards
+[2:45] that I've gotten wrong where I've hit
+[2:46] again and do are ones cards that I've
+[2:49] reviewed in the past that I've gotten
+[2:50] right in the past and I now am supposed
+[2:52] to see them again so I'll give an
+[2:53] example so I'm going to make a test card
+[2:56] we'll call it test and we'll say test
+[2:58] and then we'll add it and so what you'll
+[3:00] see is when we go back here now it's
+[3:02] added to the new column that's because
+[3:04] I've made it but I haven't reviewed it
+[3:05] yet now if I were to uh study this new
+[3:08] card let's say I do this let's say I get
+[3:11] it wrong if I hit again or if I hit hard
+[3:13] or good actually in any of these cases
+[3:15] let's say I hit again um it now goes to
+[3:18] the learn there are cards that I got
+[3:19] wrong and they're now showing up for me
+[3:21] to review again this particular day and
+[3:24] when I review them they will typically
+[3:25] have their intervals uh be reset so now
+[3:28] that we understand what they different
+[3:30] card types mean now let's go to setting
+[3:31] to understand the ideal settings to make
+[3:34] sure that you don't get overwhelmed with
+[3:35] your card so generally speaking for
+[3:37] settings I actually recommend that you
+[3:39] keep them at the default settings and so
+[3:40] if you've never used Anki before that's
+[3:43] just what you're going to see if however
+[3:45] you're like a lot of people and you
+[3:46] played around with this in the past and
+[3:48] you've kind of thought to yourself oh I
+[3:50] want to tweak this because I want to
+[3:52] make sure that I remember everything or
+[3:53] I want to make sure that you know my
+[3:55] memory isn't very good and I need to do
+[3:57] a better job of you know retaining this
+[3:59] information
+[4:00] often times you'll see people change
+[4:01] their settings and what I generally
+[4:03] recommend is that people don't change
+[4:05] their settings because if they change
+[4:06] the settings one of the biggest mistakes
+[4:08] that that you'll see is is that they'll
+[4:10] end up having this very overwhelming
+[4:13] number of cards that they have to do and
+[4:15] often times it's because of their
+[4:16] setting I would say the only two
+[4:17] settings that you should change well so
+[4:19] first of all how do you know if you
+[4:20] changed a setting the first is uh let's
+[4:23] say that I changed this so you see how
+[4:25] this now has these undo icons have
+[4:28] appeared if you see these undo icons
+[4:30] that demonstrates that shows you that
+[4:33] you have changed the setting in some way
+[4:36] and so I would just hit uh the undo and
+[4:38] then you can restore it to the default
+[4:40] and so that is what I recommend for
+[4:41] pretty much all of these things so I
+[4:43] would just scroll down scroll down
+[4:45] scroll down and make sure that you now
+[4:47] have changed them back to the the
+[4:49] default settings the only two that I
+[4:51] would change would be new cards which I
+[4:53] generally recommend not doing more than
+[4:55] 50 new cards in a day so maximum say 50
+[4:57] new cards total so if you have multiple
+[5:00] decks let's say so let's say that I've
+[5:02] got a med school deck and I've got my
+[5:03] test deck if I if I was trying to study
+[5:05] from both of those I wouldn't do more
+[5:07] than 25 new cards in each of them that
+[5:09] would be the first thing um and then the
+[5:10] second thing is is that I would change
+[5:12] the maximum R viws per day to some
+[5:14] really really high number that I'll
+[5:15] never had now note that even though this
+[5:17] says
+[5:19] 99,999 that does not mean that I'm
+[5:21] actually going to study 9,000 well I I
+[5:24] think I change it to 9,999 but it mean
+[5:27] it doesn't mean that I will study 9,9 99
+[5:30] cards per day it just means that the
+[5:31] maximum that I will be studying is
+[5:34] 99,999 as you can see right even though
+[5:36] I I increased the number it didn't
+[5:37] change the number of cards that were due
+[5:39] or that I was learning because the
+[5:41] algorithm was saying that these are the
+[5:43] cards that are due on this particular
+[5:45] day changing the maximum number I can
+[5:47] see doesn't change that one of the the
+[5:49] problems that people run into is if they
+[5:51] keep their setting at say like 100 often
+[5:53] times uh it it will warn you um but what
+[5:56] can happen is is that you it calculates
+[5:58] out okay so if you do 20 new cards per
+[6:00] day eventually you are going to have
+[6:02] more cards that are due on a particular
+[6:03] day than you're allowing the program to
+[6:04] show you people will say I don't
+[6:06] understand why I keep forgetting all
+[6:07] this information I'm doing my ankey
+[6:09] cards every day and you look at the the
+[6:12] settings and you're like oh well it's
+[6:13] because the the program wants to show
+[6:15] you these cards but you haven't let it
+[6:17] because you've changed your settings
+[6:18] from the default and so what I recommend
+[6:20] is just to be safe
+[6:22] 99,999 and then again new cards uh less
+[6:24] than 50 total the next part is the add
+[6:27] menu so the purpose of ADD is to add new
+[6:30] cards or information that you want to
+[6:32] remember later and so what I'm going to
+[6:34] show you is how to create a new note or
+[6:37] a card within one of the decks so I am
+[6:40] going to open say the med school deck
+[6:43] and then I'm going to hit add and so
+[6:44] what it does is now it's it's opened up
+[6:47] the add card window and the first thing
+[6:50] that I'm going to do is I'm going to
+[6:52] choose the note type and so up here
+[6:55] these are probably the options that
+[6:56] you're going to see what I generally
+[6:58] recommend is to do the Bas an optional
+[7:00] reverse card so I'm going to choose that
+[7:01] I'll explain in a second how that's
+[7:02] going to work again because I've opened
+[7:04] the medical school deck it's going to go
+[7:06] in uh the deck is going to say medical
+[7:07] school briefly the different card types
+[7:09] so you've got basic which basically
+[7:11] means it's just the basic uh kind of
+[7:13] flash card that you're probably used to
+[7:15] the front is going to be the question
+[7:16] the back is going to be the answer um if
+[7:18] you do basic and reverse card what'll
+[7:19] happen is is that the front becomes the
+[7:21] question the back becomes the answer but
+[7:23] in addition to that it'll make a second
+[7:25] card that will make the back the
+[7:27] question and then the front is going to
+[7:29] be the answer so for example if I said
+[7:30] uh capital of France the back would be
+[7:33] Paris um and so this would be the the
+[7:36] question for one of them and then uh
+[7:38] Paris would be the answer in the other
+[7:40] but it will also make another card where
+[7:42] the Paris is the front of the card
+[7:44] answer is going to be what used to be
+[7:45] the front of the card in medicine where
+[7:47] this can be particularly helpful is is
+[7:49] that in a test scenario you might want
+[7:52] to know either the condition's name or
+[7:55] the something about the condition so
+[7:56] let's say that I wanted to know
+[7:57] presentation of an epid hematoma I might
+[8:00] say abidal hematoma what's the
+[8:02] presentation and then in the back it
+[8:03] would be the presentation I might
+[8:05] however also want to know based on the
+[8:06] presentation what is the condition
+[8:08] because that is often times more what
+[8:10] you're going to see in real life they're
+[8:11] not going to give you the condition's
+[8:12] name and then ask you to describe it
+[8:14] they're actually going to describe the
+[8:15] condition and then ask you about the
+[8:16] name and so knowing how to make uh
+[8:19] effective reverse cards can be very very
+[8:20] helpful basic is you know type an answer
+[8:23] close deltion is one where I'm not a
+[8:25] huge fan of these um but the basic ideas
+[8:27] is that you'll say like Paris is is the
+[8:29] capital of France and then you have the
+[8:33] ability to create something where it's
+[8:34] going to show you the answer Paris is
+[8:36] the capital of and then I have to hit
+[8:38] you know so I I clicked on the close
+[8:39] deletion and it created this blank space
+[8:43] that now I'm going to use as a prompt to
+[8:44] help me remember it so is the capital of
+[8:47] France it's kind of this cute thing that
+[8:49] people can use the downside that I have
+[8:52] found with Clos deletions is that I tend
+[8:54] to remember a lot of contextual Clues so
+[8:57] if I have like a longer string of text I
+[9:00] might remember like oh okay I that you
+[9:02] know Paris is the capital of and I might
+[9:04] not think about that but the text might
+[9:06] be some sort of clue for me where I'm
+[9:08] like oh the answer to this card is for
+[9:10] even though I'm not actually remembering
+[9:13] the actual information it's just this
+[9:15] thing that I've kind of memorized and
+[9:17] I'm now regurgitating on a card what I
+[9:19] recommend to use is the basic and
+[9:22] optional reverse card and so you may
+[9:24] want to make reverse card or you may not
+[9:27] and so it's nice to have the option of
+[9:29] making a reverse card or not so for
+[9:32] example if I wanted to say capital of
+[9:34] France right would be the front um and
+[9:37] then the back would be Paris right if I
+[9:40] leave this blank then it will not add a
+[9:43] reverse card whereas if I put y for yes
+[9:48] in the back then it will make a reverse
+[9:51] card so it will give me the option of if
+[9:53] I want to do this or not
+[9:55] so um you can see now that there are two
+[9:58] different cards here um because I've
+[10:00] added this why however if I delete this
+[10:02] there are times when you're going to
+[10:03] want to have a only a forward card and
+[10:06] there are going to be times when you
+[10:07] want to have a forward and a reverse
+[10:09] card for those I actually think that in
+[10:11] general it's better to just default to
+[10:12] basic and optional reverse card uh what
+[10:15] this will allow you to do is to always
+[10:18] have the forward card let's say I wanted
+[10:19] to say capital of USA I would say
+[10:22] Washington DC if I just add this right
+[10:26] by itself then it's only added to single
+[10:29] card right you can see there's only one
+[10:31] card here and it is capital of USA
+[10:33] Washington DC now if I add if I type y
+[10:37] here for yes I don't know if you can
+[10:39] actually um type other letters here but
+[10:42] Y is the one that I've always defaulted
+[10:44] to so if you type y here for ad of verse
+[10:46] you see now how it's added a second card
+[10:48] so that second card is going to be
+[10:49] Washington DC is going to be the
+[10:51] question and then the answer is going to
+[10:52] be the front which is capital of USA if
+[10:54] you delete whatever it is that you type
+[10:56] here in order to make the the the the
+[10:58] reverse card it doesn't actually delete
+[11:00] the card so you'll actually have to
+[11:01] manually delete it um by going to uh
+[11:04] notes and
+[11:06] delete and so um but you can suspend
+[11:09] this card if you want if you don't want
+[11:11] to use that because if they're linked I
+[11:13] think that if you delete one it might
+[11:14] actually delete the other one too so
+[11:15] that is the add function the only other
+[11:18] thing that I would um that I would add
+[11:20] about this is that you can um create
+[11:23] tags for these cards let's say I wanted
+[11:25] to do Capital so I would say you know
+[11:27] capital of uh UK which I believe is
+[11:32] London um I could add this to capitals
+[11:36] right and I could add a reverse card
+[11:37] here and so now it's created this tag
+[11:40] and so anytime I wanted to find cards
+[11:42] related to that particular tag which
+[11:44] will become relevant later um I can do
+[11:46] that by just searching for that
+[11:48] particular tag I'm also going to link
+[11:50] here a video to how to make other cards
+[11:55] um which you can find uh in the show
+[11:57] notes the next feature that we're going
+[11:58] to talk about is the browse feature and
+[12:01] so the purpose of browse is really it's
+[12:02] like a search window or it's a search
+[12:04] function to find important information
+[12:06] from the browse window you can also edit
+[12:08] and delete and move or suspend cards as
+[12:11] I was showing you earlier and you can
+[12:13] use it for cram specific information for
+[12:15] upcoming tests which I'll talk about in
+[12:17] a future video and it will default to
+[12:19] opening the most recent deck that you
+[12:20] have opened and so um here we've got all
+[12:23] of my capitals of different countries
+[12:25] probably the most useful thing to note
+[12:27] is all of this information over here and
+[12:29] so what you can do is you can look at
+[12:32] either due date like sort of the timing
+[12:34] of them so when we're cards when our
+[12:36] cards due like if they're due today
+[12:38] these are all my cards that would be due
+[12:39] today that I'm supposed to be doing or I
+[12:41] can sort them based on when they were
+[12:43] added and I can look at when they were
+[12:45] edited or studied or things like that um
+[12:48] Flags can be useful if you like for
+[12:50] example I've made uh subdecks before of
+[12:53] particular cards where I didn't
+[12:55] necessarily want to go and like add a
+[12:57] tag to every single one of the cards but
+[12:58] I was sharing a deck with someone or I
+[13:00] was sharing a certain number of cards
+[13:02] and so I wanted to just highlight all of
+[13:04] those particular kinds of cards I don't
+[13:06] know maybe like all of my cards to do
+[13:07] with acne and so I would you know tag
+[13:10] all of them as blue or red or something
+[13:12] like that card State I don't really use
+[13:13] all that often um but you can again sort
+[13:16] them based off of card state but the
+[13:18] ones that I probably find most useful
+[13:19] are going to be based off of tags
+[13:21] honestly probably the most useful thing
+[13:23] that I find is to look at them by tags
+[13:26] the other really really useful feature
+[13:28] and the one that I use the most most is
+[13:29] actually this feature um and so that's
+[13:32] just the search bar and so I can search
+[13:34] for all of the cards that I've ever made
+[13:36] um based off of particular words but I
+[13:40] think that it's actually really valuable
+[13:41] to spell things correctly in large part
+[13:43] because you can search your deck based
+[13:47] off of words and if you misspell it it's
+[13:49] actually not going to find those things
+[13:50] so if I misspelled say epidural hematoma
+[13:53] or if I misspelled hematoma let's say it
+[13:56] would only show me the cards in which
+[13:57] I'd spelled hematoma correctly um and as
+[13:59] I was showing you earlier from the
+[14:01] browse menu you can actually just edit
+[14:02] the cards this is the easiest way to
+[14:04] edit the cards is just to find the card
+[14:06] and then you can just type it into the
+[14:07] browse window it will change the card
+[14:09] immediately um and yeah you can also go
+[14:12] to delete cards and there's a lot of
+[14:15] other really useful things that you can
+[14:16] do I can you know highlight all of these
+[14:18] cards let's say that you know I had just
+[14:21] created a bunch of cards and I realized
+[14:23] I didn't make any uh tags for them you
+[14:25] can actually just hit add tag and now
+[14:28] all of those things can um now have my
+[14:31] capitals tag and I can now go down in my
+[14:35] browser window and then find all of my
+[14:36] cards that are tagged with capitals and
+[14:39] so there's a lot of useful features
+[14:41] these are probably the most common ones
+[14:43] that I'm use in my day-to-day life yeah
+[14:46] oh I would say probably the other the
+[14:47] other maybe useful features um just to
+[14:49] highlight some I'll I can make a a
+[14:51] future video if you are interested which
+[14:54] again please put in the comments what
+[14:55] sort of videos you would like to see um
+[14:58] another feature that you can certainly
+[15:00] use I will use sometimes is to change
+[15:02] deck and so if I wanted to say Obviously
+[15:04] capitals don't belong in medical school
+[15:06] maybe they would belong and say my test
+[15:07] deck or I can add we add a deck here um
+[15:12] I can instead of it being default we can
+[15:14] call it uh capos right so I can add a
+[15:17] deck here so now you can see it is in
+[15:19] the test deck it is a sub deck of the
+[15:21] test deck and is called capitals I'm
+[15:24] going to cover this in the future but
+[15:25] there's also the ability to cram
+[15:27] specific cards and so let say that you
+[15:29] wanted to um study things separately you
+[15:31] can do that from a special function
+[15:33] called creating a filtered deck and so
+[15:36] we won't cover that in this video be
+[15:38] sure to subscribe to the channel so you
+[15:40] can um be alerted when we have new
+[15:42] videos like that all right so the next
+[15:44] feature that we're going to talk about
+[15:45] is stats so the purpose of stats is
+[15:47] really to monitor your progress and you
+[15:49] can use it to help adjust your study
+[15:51] habits I'm going to show you the stats
+[15:53] what I will say is is that most of you
+[15:55] are going to want to hit collection cuz
+[15:56] you're going to have multiple decks and
+[15:58] so you don't want to just look at that
+[16:00] that particular deck which is going to
+[16:01] be the last deck that I opened
+[16:02] collection is going to be all of the
+[16:03] Decks that I've ever created and studied
+[16:05] from the most relevant for 99% of users
+[16:08] are going to be three tabs in the stats
+[16:10] menu they're going to be reviews answer
+[16:12] buttons and added I'm going to talk
+[16:14] briefly about the other ones but those
+[16:15] are the ones that I'm going to spend the
+[16:16] most time talking about reviews is going
+[16:19] to tell me how many cards did I review
+[16:22] um and tell me about those reviews so if
+[16:24] I hover over this so you can see here um
+[16:27] you got different colors note that I am
+[16:28] part color blind so you're going to have
+[16:30] to bear with me um but this red color is
+[16:34] I think it's kind of orangish is
+[16:36] learning so what that means is that
+[16:37] there were eight times that I um was
+[16:39] reviewing things where I clicked a
+[16:41] button opened one card and I hit again
+[16:44] 99 times and you know saw it 100 times
+[16:47] then it would still it would count it as
+[16:49] 100 reviews for learning as I could also
+[16:51] do 100 cards that I'm learning which
+[16:53] means that they're the new cards that
+[16:55] I'm I'm learning from the new cards are
+[16:57] again the ones that I have made but I
+[16:59] haven't reviewed yet and so from
+[17:01] reviewing from the first time those are
+[17:03] the learning cards and so on this day 11
+[17:05] days ago I reviewed because this is a
+[17:07] test deck um I had made um I don't know
+[17:10] however many cards and what this is
+[17:12] saying now is that I didn't review
+[17:13] anything over the last uh N9 days in
+[17:16] between those and then today you can see
+[17:18] my reviews that I did and so you saw
+[17:21] that I made a card and I reviewed it and
+[17:22] so that is why there it shows learning
+[17:24] one you got different kinds of intervals
+[17:26] and so as you saw the cards that I had
+[17:29] gotten right the interval was something
+[17:32] like you know hard was 2 days and I
+[17:34] think good was like 14 days something
+[17:35] like that and so those are ones where I
+[17:37] you haven't done them I forget the cut
+[17:39] off I think it's probably something like
+[17:40] 30 days where once the interval for how
+[17:44] long you algorithm predicts that you're
+[17:46] going to remember this information um
+[17:48] once that goes beyond 30 days then I
+[17:50] think it's called a mature card since
+[17:52] I've only reviewed these cards once
+[17:53] before and this is the first time that
+[17:55] I'm seeing them after the first time
+[17:56] that they were in the learning pile um
+[17:59] they're still young cards and so and so
+[18:00] what you'll notice is that I didn't hit
+[18:02] again on any of these but I'm going to
+[18:03] show you what happens when I do hit
+[18:05] again and so this is my test card um I
+[18:08] think this is the one I just made so
+[18:09] this isn't going to work oh here uh here
+[18:10] this is one so I'm going to hit again on
+[18:12] this one and so I'm hit again on this
+[18:14] one so now let's look at what happens to
+[18:16] my stats and so I'm again I'm going to
+[18:18] hit collection again so I can see all of
+[18:20] my cards so you'll see that I hit I'm
+[18:22] now learning it says two reviews and so
+[18:24] that's because I hit again twice on
+[18:27] those cards and so those are cards that
+[18:28] are young or they cards that are mature
+[18:31] that I've hit again on and so that's
+[18:33] what the uh learning means filtered is
+[18:35] again if you create like a separate deck
+[18:37] to either review a head or to cram from
+[18:40] that's the blue filtered cards you can
+[18:42] also see this is something that I didn't
+[18:43] actually notice until like years into
+[18:46] doing ay which you probably have noticed
+[18:48] is that you may have noticed uh which is
+[18:51] is that you'll see this little line here
+[18:53] um and so this is the running tally so
+[18:56] um whenever i i i t students on looking
+[18:59] at graphs I actually tell them to look
+[19:01] at the axis first and so this is what I
+[19:03] should have done here and so x-axis
+[19:05] you've got the the timeline so uh zero
+[19:08] days is uh today and then it goes
+[19:10] backwards in time for the last 30 days
+[19:12] or you can make it 90 days or you can
+[19:14] make it one year and so showing you is
+[19:17] on this y AIS it's showing you how many
+[19:19] cards did you review on that particular
+[19:20] day and on this Y axis you can see the
+[19:23] total number of cards that you've done
+[19:25] over the time period so in this case
+[19:26] over the last 30 days and so it's
+[19:29] showing me then um that on this day
+[19:32] right it went up to eight cards and then
+[19:34] on this day I've done seven reviews and
+[19:36] so then that's why it is all the way up
+[19:37] to 15 CU it's adding it's it's a
+[19:40] cumulative running total of all the
+[19:42] cards that I've reviewed over time the
+[19:43] next one I think is most helpful is um
+[19:46] actually answer button and so what this
+[19:48] is telling us is how many times did I
+[19:50] hit the various button this is I've done
+[19:52] a very small number of reviews this is
+[19:53] not particularly representative so what
+[19:55] I'm actually going to show you is my
+[19:56] actual stats from my own deck um to show
+[19:59] you my my actual stats for the cards
+[20:01] that I have been setting and so you can
+[20:03] see obviously here reviews looks very
+[20:05] different because I've been doing my
+[20:06] cards you know every day pretty much um
+[20:09] and so you can look over the past year
+[20:11] I've basically done my cards there was
+[20:13] maybe some exceptions but I've basically
+[20:15] done my cards pretty much consistently
+[20:17] for now like 15 years um but if I look
+[20:21] at my answer buttons okay so what you
+[20:25] can see here is how many times I have
+[20:28] hit the various buttons so you again you
+[20:30] got again right so I've got again hard
+[20:33] good and easy okay so these are the
+[20:35] different buttons and so if we go back
+[20:36] to
+[20:37] Stats basically those same buttons and
+[20:40] so we've got again so one is again hard
+[20:43] good and easy and so you'll see how many
+[20:46] times and what percentage of the time I
+[20:47] hit the various buttons in my particular
+[20:49] case I almost never hit easy pressed it
+[20:51] once I think for young cards and it
+[20:53] looks like here I pressed it none and
+[20:55] then for new cards I've pressed it one
+[20:56] so it's like a very very very tiny fact
+[20:58] of the time the vast majority of time
+[21:00] I'm either hitting good or hard and then
+[21:03] I will hit again and so what this number
+[21:05] at the bottom tells this is what
+[21:06] percentage of the time I was hitting
+[21:08] something that wasn't again so either
+[21:09] hitting hard good or easy and so this is
+[21:12] useful because I'll see students who are
+[21:15] kind of perfectionistic like I am and
+[21:17] they'll be like well I don't know I
+[21:19] don't really know this card as well as I
+[21:21] think that I do and so they will hit
+[21:23] again the problem with this is that
+[21:24] every single time you hit again the
+[21:26] interval resets and so it's basically
+[21:28] like a new card and so remember how I
+[21:30] said you shouldn't do more than 50 new
+[21:32] cards in a day because it will very
+[21:34] quickly um increase the number of cards
+[21:36] that you're doing well hitting again you
+[21:38] know say double my rate so I hit again
+[21:41] maybe like uh say on average 12% of the
+[21:43] time or 30% of the time you would be
+[21:45] basically adding that many new cards to
+[21:48] your deck or new reviews that you have
+[21:49] to then review that much more every
+[21:52] single day this is how people can get to
+[21:54] these situations where they are doing
+[21:56] thousands of cards in a day and all of
+[21:58] their time is spent doing ankey and
+[21:59] they're like I don't understand my
+[22:01] scores aren't going up this is
+[22:02] overwhelming and horrible this is why
+[22:04] it's because they're hitting again too
+[22:06] often and so um you can get a sense of
+[22:07] how often you're hitting Again by
+[22:09] looking at this other thing that you can
+[22:11] figure out by looking at how many times
+[22:13] you hit again so sometimes it's because
+[22:14] you're a perfectionist the other reason
+[22:16] that people will hit again um so often
+[22:18] is is because their cards are just
+[22:19] abnormally hard and so oftentimes you'll
+[22:21] see people put just huge amounts of
+[22:23] information on their cards right so it
+[22:25] might be something like you know what
+[22:26] are the capitals of France UK Uganda USA
+[22:30] Mexico you know Argentina whatever like
+[22:32] just this really obscene list of things
+[22:34] that you have to remember and of course
+[22:36] you're going to forget like at least one
+[22:38] of those things every single time and so
+[22:39] you're going to hit again like all the
+[22:40] time it's an example to illustrate that
+[22:42] the harder that you make your cards the
+[22:44] more likely it is that you're going to
+[22:46] have to hit again and so there's a
+[22:47] balance that you obviously have to
+[22:48] strike and in a subsequent video we are
+[22:50] going to talk lots and lots and lots
+[22:53] about how to make excellent cards so
+[22:54] that they are useful and connected but
+[22:57] not overwhelming but just to just to
+[22:59] note that this is a good way for you to
+[23:00] check yourself and make sure that your
+[23:02] cards are reasonable but you'll see that
+[23:04] I actually don't add that many cards
+[23:05] anymore um reason being that I have I'm
+[23:09] really just trying to maintain the
+[23:10] knowledge that I've accumulated over the
+[23:12] last 15 plus years if I find something I
+[23:14] will add it um but often times I am
+[23:17] again just trying to maintain the
+[23:19] knowledge that I've already accumulated
+[23:20] because as long as you don't forget the
+[23:22] things that you've learned it's
+[23:23] remarkable what it is that you're you're
+[23:25] capable of I'm going to talk briefly
+[23:27] about the other um parts of the Ani
+[23:30] stats future due is basically telling us
+[23:32] like um if I it tells me the future due
+[23:35] date of basically how many cards are
+[23:37] going to be do on any particular day and
+[23:39] so um I find this like only marginally
+[23:42] helpful uh reason being like I'm
+[23:43] constantly again like I I hit again
+[23:45] maybe 10% of the time and so um those
+[23:47] are going to obviously change the
+[23:49] intervals and and and the cards that I'm
+[23:50] reviewing today obviously like let's say
+[23:52] that I've got a bunch of cards today
+[23:53] that are going to have an interval that
+[23:55] are going to be in four days right so in
+[23:57] do in four 4 days this number is
+[23:59] artificially low because it doesn't yet
+[24:01] reflect the cards that I have yet to
+[24:03] study um same thing with this this is
+[24:05] just like a heat map calendar is just a
+[24:07] heat map of how many reviews I've done
+[24:08] in a particular day it's like I don't
+[24:10] know kind of useful but I find the
+[24:12] reviews uh panel to be much more useful
+[24:14] card counts I think is maybe is a
+[24:16] contender for what I would consider to
+[24:18] be my top three um it is useful to know
+[24:20] how many cards I have so you can see
+[24:22] I've got about a little bit more than
+[24:23] 24,000 cards that are young and mature
+[24:26] um and I've got a lot of new cards that
+[24:28] I I think were cards that I basically
+[24:29] made where I was like ah it wasn't worth
+[24:31] it to do um and then you can see how
+[24:33] many cards were buried and suspended and
+[24:35] and other things but um it's useful for
+[24:37] me to get a sense of how many cards have
+[24:39] I actually created and so um I guess
+[24:42] I've created more than 24,000 cards now
+[24:44] that I'm actually actively reviewing
+[24:45] review interval is interesting it's
+[24:47] basically telling me like what are the
+[24:50] the intervals um of time that each card
+[24:53] that I have that I'm actively I think
+[24:55] it's um but how many cards have like
+[24:56] what particular intervals and so for
+[24:58] example I can see so this is 95% of my
+[25:00] cards I can see that there are 98 cards
+[25:02] that have an interval between
+[25:04] 5,41 day and 5,500 days so basically
+[25:08] like 10 years which is you know God
+[25:12] that's not 10 years I mean if you you
+[25:14] like you can see I mean there's some
+[25:15] where it's like 9,000 days oh my
+[25:17] goodness I have made maybe 24 you know a
+[25:21] little more than 24,000 cards it takes
+[25:23] me only about 30 to 60 minutes in a day
+[25:26] to actually review those cards think
+[25:27] about that like how is that possible
+[25:29] it's possible because so many of my
+[25:30] cards are in this very very long tail of
+[25:34] long intervals and so the 10year Mark is
+[25:36] going to be you know to say 3,600 and
+[25:39] some days right all of these cards are
+[25:41] basically having an interval more than
+[25:43] 10 years that's remarkable and you know
+[25:45] all of these cards starting from like
+[25:47] you know 300 days like there's so many
+[25:49] cards with here they have an interval of
+[25:51] greater than a year which means that
+[25:53] after I've hit you know hard or good or
+[25:56] easy you know the program predicts and
+[25:58] with relative accuracy right I mean I'm
+[26:00] only hitting I hit again 13% of the time
+[26:03] right so with relatively good accuracy
+[26:05] it is predicting that I am going to
+[26:06] remember this information for a year or
+[26:09] longer for many many of my cards so this
+[26:12] is how I can have 24,000 cards and only
+[26:15] have to study you know usually less than
+[26:16] an hour per day to recall all that
+[26:18] information card ease is just telling me
+[26:20] um when you hit again or hard or good or
+[26:23] easy it's going to change the ease and
+[26:25] so that ease will play into what the
+[26:27] interval is and so if I hit again like a
+[26:29] ton of times then it's it's going to
+[26:31] increase that interval at a very slow
+[26:32] rate and so there are a large number of
+[26:35] cards that I've hit again on many many
+[26:36] times I've learned a lot from that
+[26:38] experience but it's basically the
+[26:39] punchline is is that it tends to be the
+[26:41] more memorization heavy cards that I
+[26:43] tend to forget more easily and therefore
+[26:45] I'm hitting again on them so much hourly
+[26:47] breakdown tells you when I'm doing my
+[26:49] reviews and so um you can see that most
+[26:51] my reviews over the last year have been
+[26:53] sort of in the morning times and then it
+[26:55] kind of Peters out after that I have
+[26:57] experimented with different times for
+[26:58] studying often times if I want to get my
+[27:00] reviews done it's better to do them
+[27:01] early because I can do I'm I'm more
+[27:03] focused I have more energy when I do
+[27:04] them later on in the day I tend to I
+[27:07] don't know just get more distracted um
+[27:09] and it takes me often times like twice a
+[27:11] am of time so that was the stats window
+[27:13] next I'm going to briefly go over sync
+[27:15] which is going to allow you to study on
+[27:19] any device on your computer on your
+[27:21] phone on a tablet on a web browser say
+[27:25] like the hospital or something and allow
+[27:27] you to make sure that this the reviews
+[27:29] that you're doing in one place are going
+[27:30] to show up in another this is really
+[27:33] important to learn how to do and so I'm
+[27:34] going to briefly talk about this so the
+[27:36] first thing you're going to have to do
+[27:37] is you're going to have to sign up for
+[27:38] an Anki web account I'm going to link in
+[27:40] the description um how to set up your
+[27:44] Anki web account and I'm not going to do
+[27:45] that here let's say I've got three
+[27:47] different devices I've got my phone I've
+[27:48] got my computer and I've got my iPad
+[27:50] syncing will allow me to synchronize
+[27:52] what it is that I've studied and all the
+[27:54] information on my particular computer or
+[27:56] device that I was just studying from to
+[27:58] the server in the cloud the important
+[28:00] thing to recognize is that I'm not
+[28:02] actually my devices aren't talking to
+[28:04] each other directly my devices are
+[28:06] talking to a server and that server is
+[28:08] talking to the other devices okay so if
+[28:10] you understand that everything will make
+[28:12] a lot more sense I'm going to study I'm
+[28:14] going to study some cards um this is the
+[28:16] card that I was doing earlier so you can
+[28:18] see uncontrolled maternal
+[28:20] diabetes murmur her potentially on baby
+[28:23] right so it's a systolic murmur um it's
+[28:25] a flow murmur because there's an
+[28:27] increase in
+[28:28] uh basically fat and glycogen that
+[28:30] happens in the intraventricular septum
+[28:32] and so that can narrow basically the I'm
+[28:34] going to hit synchronize on my phone and
+[28:36] so now what I will do is I'm going to
+[28:39] hit synchronize on my computer and it is
+[28:42] going to synchronize it with the
+[28:43] computer I hit synchronize and so now
+[28:45] right it so was 101 cards and I've got
+[28:47] two new cards and I'm going to hit
+[28:49] synchronize and now it is going to show
+[28:50] me that I just reviewed two cards okay
+[28:53] so that is how it works you'll note
+[28:55] though that I have to synchronize it
+[28:56] first to the server or the cloud and
+[28:59] then I'm going to receive that
+[29:01] information here what's important to
+[29:03] recognize is there's one sort of
+[29:06] critical error that people make with
+[29:07] this and so I I want to talk about this
+[29:09] briefly that is when you so anytime you
+[29:12] change the note card type it basically
+[29:14] is going to um it's going to ask you're
+[29:17] going to require a full upload to the
+[29:18] database when you next synchronize your
+[29:19] collection if you have any reviews BL BL
+[29:21] BL BL right so I'm doing this because I
+[29:23] want to show you what this what what
+[29:24] happens um when you get this this window
+[29:27] so often times people are going to see
+[29:29] this window and it's going to say your
+[29:31] deck's here and on Ani web differ in
+[29:32] such a way that they can't be merged
+[29:34] together so it's necessary to overwrite
+[29:36] the decks on one side with the decks
+[29:38] from the other okay so this is actually
+[29:40] really important I I am like the kind of
+[29:42] person that just like kind of clicks
+[29:43] through like Windows you don't want to
+[29:45] click through this window you want to
+[29:46] think about this this is actually really
+[29:47] really important so if you choose
+[29:49] download Anki will fetch the collection
+[29:51] from an web and any changes you made on
+[29:53] this device since the last sync will be
+[29:55] lost okay so what that's saying is is
+[29:57] that if you um if let's say I studied on
+[30:00] my phone and I did all my reviews on my
+[30:02] phone but my computer was the last thing
+[30:05] to sync with the cloud then if I hit
+[30:08] download from eny web it's going to
+[30:10] delete all the information from my phone
+[30:12] and it's going to just use that
+[30:14] information so like let's say I just did
+[30:15] 100 views it's going to basically ignore
+[30:17] that information and it's going to think
+[30:20] that my most recent information is
+[30:21] actually the stuff that was in the CL
+[30:22] instead if you choose upload Anki will
+[30:25] send this device's data to eny web and
+[30:27] any changes that waiting on Ani web will
+[30:29] be lost right so again let's say that if
+[30:31] I had just studied on my phone I would
+[30:33] want to upload it to Ani web because the
+[30:35] most updated information is on my phone
+[30:38] so I would want to put that in the
+[30:39] server and have that information then be
+[30:42] propagated to all of the other things
+[30:43] like my computer or my iPad really the
+[30:45] question that you want to ask where is
+[30:47] the most up-to-date information wherever
+[30:50] has the most up-to-date information that
+[30:52] should be the thing that uploads to eny
+[30:54] web everything else you want to download
+[30:57] from eny web right and that way the most
+[30:59] up-to-dated information is going to the
+[31:01] server and then the server can then
+[31:02] spread that most up-to-dated information
+[31:04] um everywhere else often times this is
+[31:06] not an issue you know Anki does a good
+[31:08] job of making sure that if I study a
+[31:10] little bit on my computer and I study a
+[31:11] little bit on my phone or I study on my
+[31:13] iPad like that it will actually um for
+[31:16] the most part does a pretty good job of
+[31:18] of reconciling those differences however
+[31:20] there are some things like I showed you
+[31:22] earlier if you you know change the note
+[31:23] type or things like that where it will
+[31:26] force you to make a decision of which
+[31:28] information you want now if you make the
+[31:31] wrong decision with this I've had
+[31:33] students where they're like I don't
+[31:34] understand I keep studying my cards but
+[31:36] I look at my reviews and it shows me
+[31:38] that I haven't done any reviews for the
+[31:39] last like 14 days and you're like hm
+[31:42] that is weird that shouldn't happen and
+[31:44] what they've been doing is basically
+[31:45] they've been hitting download from eny
+[31:47] web every single time they'll study it
+[31:49] on their phone and the the server has
+[31:51] this you know out ofate information that
+[31:53] came from their computer from say 14
+[31:54] days ago and they keep hitting download
+[31:56] from Monkey web and they're like I don't
+[31:58] understand I keep seeing the same cards
+[32:00] every single day I check my stats and it
+[32:01] says that I've only studied like that
+[32:03] particular day which again it gets
+[32:05] deleted as soon as they um hit download
+[32:07] from anky web and so they get really
+[32:08] confused so I'm sharing this because
+[32:10] these are all the mistakes that people
+[32:11] make when they're doing Ani and I don't
+[32:13] want you to make them because they can
+[32:15] be really really really painful in this
+[32:17] video we've covered the main section
+[32:19] we've covered decks ad browse stats and
+[32:22] sink which are the most critical
+[32:23] features of Anki if you found this
+[32:25] material helpful be sure to check out
+[32:28] our related videos here so that you can
+[32:30] learn more about how to use Anki to
+[32:32] maximize your studying and accomplish
+[32:34] more in less time thanks and we'll see
+[32:37] you in the next one
