@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Training Wheels — Quant</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <div class="brand">Scaffold<small>Bond pricing — help fades as you improve</small></div>
+    <div class="wheels" id="wheels"><span>Support</span><span class="wheel on"></span><span class="wheel on"></span><span class="wheel on"></span></div>
+  </div>
+  <a class="back" href="index.html">← all prototypes</a>
+
+  <div class="card" id="stage" style="margin-top:14px"></div>
+  <p class="hint">Level 1: watch it done. Level 2: fill the missing step. Level 3: solo. Miss one and a wheel comes back.</p>
+</div>
+
+<script>
+const stage=document.getElementById('stage');
+let level=1, wheels=3;
+function setWheels(n){wheels=n;const w=document.querySelectorAll('#wheels .wheel');w.forEach((el,i)=>el.classList.toggle('on',i<n));}
+
+function L1(){
+  setWheels(3);
+  stage.classList.add('fade-in');
+  stage.innerHTML=`
+    <div class="eyebrow">Level 1 · Worked example (all wheels on)</div>
+    <p class="q">Price a 3-year bond · face 1000 · 5% annual coupon · 6% yield.</p>
+    <ul class="steps">
+      <li class="step"><span class="n">1</span><div class="t"><span class="op">Coupon = 5% × 1000 = 50/yr</span><br><small>the fixed cash you get each year</small></div></li>
+      <li class="step"><span class="n">2</span><div class="t"><span class="op">PV of coupons = 50 × 2.6730 = 133.65</span><br><small>2.6730 is the 3-yr, 6% annuity factor</small></div></li>
+      <li class="step"><span class="n">3</span><div class="t"><span class="op">PV of face = 1000 ÷ 1.06³ = 839.62</span><br><small>the 1000 you get back, discounted</small></div></li>
+      <li class="step"><span class="n">4</span><div class="t"><span class="op">Price = 133.65 + 839.62 = 973.27</span><br><small>add the pieces</small></div></li>
+    </ul>
+    <button class="btn" onclick="L2()">Got it — my turn (one wheel off)</button>`;
+}
+
+function L2(){
+  level=2; setWheels(2);
+  stage.classList.add('fade-in');
+  stage.innerHTML=`
+    <div class="eyebrow">Level 2 · Fill the missing step</div>
+    <p class="q">New bond · face 1000 · 4% coupon · 5% yield · 3 years.</p>
+    <ul class="steps">
+      <li class="step"><span class="n">1</span><div class="t"><span class="op">Coupon = 40/yr</span></div></li>
+      <li class="step"><span class="n">2</span><div class="t"><span class="op">PV of coupons = 40 × 2.7232 = 108.93</span></div></li>
+      <li class="step"><span class="n">3</span><div class="t"><span class="op">PV of face = 1000 ÷ 1.05³ = <input class="inline-input" id="in2" inputmode="decimal" placeholder="?"></span><br><small>discount the 1000 back 3 years</small></div></li>
+      <li class="step"><span class="n">4</span><div class="t"><span class="op">Price = 108.93 + (your answer)</span></div></li>
+    </ul>
+    <button class="btn" onclick="check2()">Check</button>
+    <div id="fb2"></div>`;
+}
+function check2(){
+  const v=parseFloat(document.getElementById('in2').value);
+  const ok=Math.abs(v-863.84)<=4;
+  const fb=document.getElementById('fb2');
+  if(ok){ fb.innerHTML=`<div class="callout green" style="margin-top:12px">✔ 1000 ÷ 1.05³ = <b>863.84</b>. Price = 108.93 + 863.84 = <b>972.77</b>. Wheels coming off.</div>`;
+    fb.innerHTML+=`<button class="btn" style="margin-top:12px" onclick="L3()">Solo it (no wheels)</button>`; }
+  else { setWheels(3); fb.innerHTML=`<div class="callout amber" style="margin-top:12px">Not quite — 1000 ÷ 1.05³ = <b>863.84</b>. A wheel comes back; try the next one with the step shown again.</div><button class="btn" style="margin-top:12px" onclick="L2()">Retry with support</button>`; }
+}
+
+function L3(){
+  level=3; setWheels(0);
+  stage.classList.add('fade-in');
+  stage.innerHTML=`
+    <div class="eyebrow">Level 3 · Solo (wheels off)</div>
+    <p class="q">New bond · face 1000 · 6% coupon · 5% yield · 3 years. <br>What’s the price?</p>
+    <p class="small muted">Annuity factor (3yr, 5%) = 2.7232 · 1.05³ = 1.1576</p>
+    <input class="inline-input" id="in3" inputmode="decimal" placeholder="price" style="width:100%">
+    <button class="btn" style="margin-top:12px" onclick="check3()">Check</button>
+    <div id="fb3"></div>`;
+}
+function check3(){
+  const v=parseFloat(document.getElementById('in3').value);
+  const ok=Math.abs(v-1027.23)<=4;
+  const fb=document.getElementById('fb3');
+  if(ok){ fb.innerHTML=`<div class="callout green" style="margin-top:12px">✔ 60×2.7232 + 1000÷1.1576 = 163.39 + 863.84 = <b>1027.23</b>. A premium bond — priced above 1000 because the coupon beats the yield. You did the whole thing unaided.</div>
+    <div class="callout" style="margin-top:12px">That’s the point: you built the <b>procedure</b>, then the app removed the help. Now it hands you to spaced review so it sticks.</div>
+    <button class="btn" style="margin-top:12px" onclick="location.reload()">Restart</button>`; }
+  else { setWheels(1); fb.innerHTML=`<div class="callout amber" style="margin-top:12px">Off a bit. 60×2.7232 + 1000÷1.1576 = <b>1027.23</b>. One wheel returns so the next problem shows a step again.</div><button class="btn" style="margin-top:12px" onclick="L3()">Retry</button>`; }
+}
+L1();
+</script>
+</body>
+</html>
